@@ -1,0 +1,11 @@
+node_modules/
+out/
+.env
+# Media is large and kept as numbered takes beside its .gen.json record; code, plans and records are tracked.
+*.mp4
+*.mov
+*.webm
+*.mp3
+*.wav
+*.m4a
+*.aac

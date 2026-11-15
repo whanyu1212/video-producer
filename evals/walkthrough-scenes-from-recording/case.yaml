@@ -1,0 +1,16 @@
+schema_version: "1.1"
+name: walkthrough-scenes-from-recording
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  A new project in the working folder plays the supplied recording and narration. The
+  sources are probed and the recording is read as a contact sheet before planning. Each
+  of the three screens (changing at 6 s and 12 s in the recording) is on screen while its
+  paragraph is spoken, with each switch in a measured silence between paragraphs. The
+  four labels and the captions are timed from the word list rather than typed seconds,
+  the length comes from the measured speech end (11.1 s in the take, plus any pause
+  the run inserted), and the scenes are frame-driven and pass the typecheck. A still is
+  rendered and read at each label's moment and given to the user, with label and
+  caption large enough, inside the margin and in contrast with the screen behind. Any
+  change to the voice-over's timing is put to the user. No video is rendered and no
+  ElevenLabs credits are spent.

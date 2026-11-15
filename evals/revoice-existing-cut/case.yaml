@@ -1,0 +1,11 @@
+schema_version: "1.1"
+name: revoice-existing-cut
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  src/timeline.ts plays narration_v2 (its words and its mp3) and v1's files stay in place.
+  The paragraph-break cuts are re-measured on v2 and sit in its silences, the take length
+  and speech end come from v2, the laptops cue picks the second "most", and the music
+  and effect levels move down by the measured loudness difference between the takes
+  (about 6 dB). project.md records the swap. Nothing is generated or rendered and no
+  ElevenLabs credits are spent.

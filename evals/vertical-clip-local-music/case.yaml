@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: vertical-clip-local-music
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  A 1080x1920 clip of about 12 s is rendered from a new project with the supplied
+  music, normalised for delivery (-14 LUFS, true peak at or below -1 dBTP), measured with
+  probe.py and reviewed on its own frames (contact sheet, last frame, stills of the text).
+  Every tip is readable, inside the safe margin and on screen long enough; the cut is
+  committed, tagged and logged. No ElevenLabs credits are spent.

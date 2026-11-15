@@ -1,0 +1,1489 @@
+{
+ "about": "Admired video work to pick per-project references from. IDs never change: add new entries at the end of a genre with the next number, and mark a dead link instead of deleting its entry. verified: fetched = the page was opened and checked; search = seen in search results only. Nobody has watched every video; judge before adopting.",
+ "compiled": "2026-11-15",
+ "make_with": {
+  "code": "drawable in Remotion (2D, SVG/canvas, three.js)",
+  "mixed": "graphics plus footage",
+  "footage": "needs filmed footage",
+  "generated": "AI video models"
+ },
+ "genres": [
+  {
+   "id": "E1",
+   "group": "Explain & inform",
+   "name": "Science & education explainers",
+   "find_more": [
+    {
+     "name": "TED-Ed lessons",
+     "url": "https://ed.ted.com"
+    },
+    {
+     "name": "Information is Beautiful Awards",
+     "url": "https://www.informationisbeautifulawards.com"
+    }
+   ]
+  },
+  {
+   "id": "E2",
+   "group": "Explain & inform",
+   "name": "Health & mental-health explainers",
+   "gap": "The last two are ADHD explainers: a floor to beat, not taste to copy.",
+   "find_more": [
+    {
+     "name": "TED-Ed lessons",
+     "url": "https://ed.ted.com"
+    }
+   ]
+  },
+  {
+   "id": "E3",
+   "group": "Explain & inform",
+   "name": "Data journalism & data-viz video",
+   "find_more": [
+    {
+     "name": "Information is Beautiful Awards",
+     "url": "https://www.informationisbeautifulawards.com"
+    },
+    {
+     "name": "Malofiej Awards",
+     "url": "https://www.malofiejgraphics.com"
+    }
+   ]
+  },
+  {
+   "id": "E4",
+   "group": "Explain & inform",
+   "name": "Maps & geography animation",
+   "find_more": [
+    {
+     "name": "ProPublica on its Malofiej best-map win",
+     "url": "https://www.propublica.org/nerds/propublica-honored-with-best-map-two-medals-at-malofiej-21"
+    }
+   ]
+  },
+  {
+   "id": "E5",
+   "group": "Explain & inform",
+   "name": "Video essays & documentary editing",
+   "find_more": []
+  },
+  {
+   "id": "C1",
+   "group": "Commercial & product",
+   "name": "Software launch & product demo",
+   "gap": "Thin: no official Linear or Stripe launch video page could be confirmed; look on their own channels.",
+   "find_more": [
+    {
+     "name": "BUCK work",
+     "url": "https://www.buck.co/work"
+    },
+    {
+     "name": "The One Club",
+     "url": "https://www.oneclub.org"
+    },
+    {
+     "name": "D&AD",
+     "url": "https://www.dandad.org"
+    }
+   ]
+  },
+  {
+   "id": "C2",
+   "group": "Commercial & product",
+   "name": "Hardware & 3D product films",
+   "find_more": [
+    {
+     "name": "BUCK work",
+     "url": "https://www.buck.co/work"
+    },
+    {
+     "name": "Apple Events",
+     "url": "https://www.apple.com/apple-events/"
+    }
+   ]
+  },
+  {
+   "id": "C3",
+   "group": "Commercial & product",
+   "name": "Brand films & manifestos",
+   "find_more": [
+    {
+     "name": "Cannes Lions 2025 winners",
+     "url": "https://www.canneslions.com/news/cannes-lions-announces-2025-final-winners"
+    },
+    {
+     "name": "The One Club",
+     "url": "https://www.oneclub.org"
+    }
+   ]
+  },
+  {
+   "id": "C4",
+   "group": "Commercial & product",
+   "name": "Cinematic commercials",
+   "gap": "Thin: award archives block automated checks. Browse the Cannes and D&AD archives directly.",
+   "find_more": [
+    {
+     "name": "Cannes Lions 2025 film winners",
+     "url": "https://creative.salon/cannes-lions-curated/cannes-lions-2025-curated/film-cannes-lions-2025"
+    },
+    {
+     "name": "D&AD",
+     "url": "https://www.dandad.org"
+    }
+   ]
+  },
+  {
+   "id": "C5",
+   "group": "Commercial & product",
+   "name": "Event openers & keynote titles",
+   "find_more": [
+    {
+     "name": "It's Nice That on Config 2024",
+     "url": "https://itsnicethat.com/features/figma-config-2024-identity-graphic-design-spotlight-090724"
+    }
+   ]
+  },
+  {
+   "id": "D1",
+   "group": "Design-led motion",
+   "name": "Kinetic type & title sequences",
+   "find_more": [
+    {
+     "name": "Art of the Title",
+     "url": "https://www.artofthetitle.com"
+    },
+    {
+     "name": "Watch the Titles",
+     "url": "https://www.watchthetitles.com"
+    }
+   ]
+  },
+  {
+   "id": "D2",
+   "group": "Design-led motion",
+   "name": "Abstract & generative motion",
+   "gap": "Thin: studio sites are listed at homepage level; browse their work pages.",
+   "find_more": [
+    {
+     "name": "Stash",
+     "url": "https://stashmedia.tv"
+    },
+    {
+     "name": "Motionographer",
+     "url": "https://www.motionographer.com"
+    }
+   ]
+  },
+  {
+   "id": "D3",
+   "group": "Design-led motion",
+   "name": "Character animation & mascots",
+   "find_more": [
+    {
+     "name": "Rive case studies",
+     "url": "https://rive.app/blog/case-studies"
+    },
+    {
+     "name": "Nexus Studios",
+     "url": "https://www.nexusstudios.com"
+    }
+   ]
+  },
+  {
+   "id": "D4",
+   "group": "Design-led motion",
+   "name": "UI & micro-interaction motion",
+   "gap": "The last two are motion specs, not videos: use them for easing and duration values.",
+   "find_more": [
+    {
+     "name": "Rive case studies",
+     "url": "https://rive.app/blog/case-studies"
+    }
+   ]
+  },
+  {
+   "id": "D5",
+   "group": "Design-led motion",
+   "name": "Logos, idents & brand motion systems",
+   "find_more": [
+    {
+     "name": "Stash",
+     "url": "https://stashmedia.tv"
+    },
+    {
+     "name": "Pentagram work",
+     "url": "https://www.pentagram.com/work"
+    }
+   ]
+  },
+  {
+   "id": "S1",
+   "group": "Social, creator & AI",
+   "name": "Vertical social shorts",
+   "gap": "Thin: TikTok blocks automated checks. Award pages stand in for the accounts.",
+   "find_more": [
+    {
+     "name": "Shorty Awards",
+     "url": "https://shortyawards.com/"
+    },
+    {
+     "name": "Cannes Lions creator spotlight",
+     "url": "https://www.canneslions.com/awards/winners-spotlight/creator"
+    }
+   ]
+  },
+  {
+   "id": "S2",
+   "group": "Social, creator & AI",
+   "name": "YouTube creator editing",
+   "find_more": [
+    {
+     "name": "Shorty Awards",
+     "url": "https://shortyawards.com/"
+    }
+   ]
+  },
+  {
+   "id": "S3",
+   "group": "Social, creator & AI",
+   "name": "Tutorials & screen walkthroughs",
+   "find_more": [
+    {
+     "name": "Motion Design Awards",
+     "url": "https://motiondesignawards.com/"
+    },
+    {
+     "name": "Webby Awards",
+     "url": "https://winners.webbyawards.com/"
+    }
+   ]
+  },
+  {
+   "id": "S4",
+   "group": "Social, creator & AI",
+   "name": "Music, lyric videos & visualisers",
+   "find_more": [
+    {
+     "name": "Telly Awards",
+     "url": "https://www.tellyawards.com/winners/"
+    },
+    {
+     "name": "Berlin Music Video Awards",
+     "url": "https://www.curationhour.com/featured/berlin-music-video-awards-winners"
+    }
+   ]
+  },
+  {
+   "id": "S5",
+   "group": "Social, creator & AI",
+   "name": "Trailers & teasers",
+   "find_more": [
+    {
+     "name": "Golden Trailer Awards",
+     "url": "https://goldentrailer.com/"
+    }
+   ]
+  },
+  {
+   "id": "S6",
+   "group": "Social, creator & AI",
+   "name": "AI-generated films & ads",
+   "gap": "Sora's web and app were reported shut down in 2026, so Sora-hosted links may be gone.",
+   "find_more": [
+    {
+     "name": "Runway AI Film Festival screening room",
+     "url": "https://aif.runwayml.com/screening-room"
+    },
+    {
+     "name": "Vivideo prompt gallery",
+     "url": "https://vivideo.ai/en/examples"
+    }
+   ]
+  }
+ ],
+ "entries": [
+  {
+   "id": "E1-01",
+   "genre": "E1",
+   "title": "Kurzgesagt (channel)",
+   "maker": "Kurzgesagt",
+   "url": "https://www.youtube.com/@kurzgesagt",
+   "format": "16:9 · 8–15 min",
+   "why": "Flat-vector science storytelling with serious scripting and sound design.",
+   "study": "Limited palette, camera moves that shift scale, reused characters, pacing led by the music.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "E1-02",
+   "genre": "E1",
+   "title": "Optimistic Nihilism",
+   "maker": "Kurzgesagt, 2017",
+   "url": "https://www.youtube.com/watch?v=MBRqu0YOH14",
+   "format": "16:9 · ~6 min",
+   "why": "An abstract idea carried entirely by simple vector scenes.",
+   "study": "Turning each idea into a metaphor, restraint, the emotional arc of the narration.",
+   "make_with": "code",
+   "verified": "search"
+  },
+  {
+   "id": "E1-03",
+   "genre": "E1",
+   "title": "But what is a neural network?",
+   "maker": "3Blue1Brown, 2017",
+   "url": "https://www.youtube.com/watch?v=aircAruvnKk",
+   "format": "16:9 · ~18 min",
+   "why": "The benchmark for visual maths, and drawn entirely in code.",
+   "study": "Progressive reveal, colours that keep one meaning, uncluttered frames, pauses that let a point land.",
+   "make_with": "code",
+   "verified": "search"
+  },
+  {
+   "id": "E1-04",
+   "genre": "E1",
+   "title": "TED-Ed (channel)",
+   "maker": "TED-Ed",
+   "url": "https://www.youtube.com/@TEDEd",
+   "format": "16:9 · ~5 min",
+   "why": "Many outside animators working inside one tight lesson format.",
+   "study": "Hook, question, answer structure; a different visual style per lesson; narration cut to picture.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "E1-05",
+   "genre": "E1",
+   "title": "Veritasium (channel)",
+   "maker": "Derek Muller",
+   "url": "https://www.youtube.com/@Veritasium",
+   "format": "16:9 · 10–30 min",
+   "why": "Live demonstrations and graphics tied together by a strong story.",
+   "study": "Cold opens, physical demos, where a graphic insert takes over from footage.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "E1-06",
+   "genre": "E1",
+   "title": "minutephysics (channel)",
+   "maker": "Henry Reich",
+   "url": "https://www.youtube.com/@minutephysics",
+   "format": "16:9 · 2–8 min",
+   "why": "Fast, witty physics drawn by hand on screen.",
+   "study": "Drawing synced to the voice, compressing one idea into seconds, comic timing.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "E2-01",
+   "genre": "E2",
+   "title": "Loneliness",
+   "maker": "Kurzgesagt, 2019",
+   "url": "https://kurzgesagt.org/projects/loneliness",
+   "format": "16:9 · ~12 min",
+   "why": "A heavy topic handled calmly and with evidence.",
+   "study": "Soft palette for a hard subject, a metaphor character, an ending the viewer can act on.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "E2-02",
+   "genre": "E2",
+   "title": "How to tell if you have seasonal affective disorder",
+   "maker": "TED-Ed · Kelly Rohan, dir. Avi Ofer",
+   "url": "https://ed.ted.com/lessons/how-to-tell-if-you-have-seasonal-affective-disorder-kelly-rohan",
+   "format": "16:9 · ~5 min",
+   "why": "Written by a clinician: short, practical, never alarming.",
+   "study": "Pacing a list of symptoms, restraint in claims, one clear next step at the end.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "E2-03",
+   "genre": "E2",
+   "title": "I had a black dog, his name was depression",
+   "maker": "World Health Organization",
+   "url": "https://www.acvim.org/resources-tools/news/video-black-dog-depression",
+   "format": "16:9 · ~4 min",
+   "why": "One visual metaphor carried through the whole film.",
+   "study": "How a single character stands for a condition; simple drawing; a hopeful turn.",
+   "make_with": "code",
+   "verified": "search"
+  },
+  {
+   "id": "E2-04",
+   "genre": "E2",
+   "title": "Headspace",
+   "maker": "BUCK",
+   "url": "https://buck.co/work/headspace",
+   "format": "16:9 · spots",
+   "why": "The reference look for a calm wellbeing brand.",
+   "study": "Soft geometric shape language, few elements on screen, gentle pacing, warmth without childishness.",
+   "make_with": "code",
+   "verified": "search"
+  },
+  {
+   "id": "E2-05",
+   "genre": "E2",
+   "title": "Headspace Members",
+   "maker": "BUCK",
+   "url": "https://buck.co/work/headspace-members",
+   "format": "16:9 · campaign",
+   "why": "Real members' stories joined to Headspace's shapes.",
+   "study": "Mixing live action with graphic shapes while keeping the tone gentle.",
+   "make_with": "mixed",
+   "verified": "search"
+  },
+  {
+   "id": "E2-06",
+   "genre": "E2",
+   "title": "Sprouts (channel)",
+   "maker": "Sprouts",
+   "url": "https://www.youtube.com/@sprouts",
+   "format": "16:9 · 3–6 min",
+   "why": "Gentle, psychology-informed animated explainers.",
+   "study": "Rounded characters, a calm voice, abstract metaphors for emotions.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "E2-07",
+   "genre": "E2",
+   "title": "AsapSCIENCE (channel)",
+   "maker": "AsapSCIENCE",
+   "url": "https://www.youtube.com/@AsapSCIENCE",
+   "format": "16:9 · 3–8 min",
+   "why": "Body and health science drawn fast on a white board.",
+   "study": "Marker-on-white drawing, quick cadence, sources shown on screen.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "E2-08",
+   "genre": "E2",
+   "title": "What Is ADHD? (Quick Learner)",
+   "maker": "Duke Psychiatry",
+   "url": "https://psychiatry.duke.edu/blog/new-quick-learner-video-what-adhd",
+   "format": "16:9 · short",
+   "why": "An ADHD explainer from a medical school: a benchmark for the topic.",
+   "study": "Benchmark: which claims they make, how they show symptoms, what a new video could do better.",
+   "make_with": "code",
+   "verified": "search"
+  },
+  {
+   "id": "E2-09",
+   "genre": "E2",
+   "title": "ADHD, with Mayim Bialik",
+   "maker": "Life Noggin",
+   "url": "https://laughingsquid.com/mayim-bialik-explains-attention-deficit-hyperactivity-disorder/",
+   "format": "16:9 · short",
+   "why": "A popular animated take on ADHD.",
+   "study": "Benchmark: tone and humour on a sensitive subject, and where it simplifies too far.",
+   "make_with": "code",
+   "verified": "search"
+  },
+  {
+   "id": "E3-01",
+   "genre": "E3",
+   "title": "The Economist (channel)",
+   "maker": "The Economist",
+   "url": "https://www.youtube.com/@TheEconomist",
+   "format": "16:9 · 3–10 min",
+   "why": "A graphics desk with a strict house style.",
+   "study": "When a chart is revealed against the line that needs it, annotation placement, one colour and type system.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "E3-02",
+   "genre": "E3",
+   "title": "Wall Street Journal (channel)",
+   "maker": "WSJ",
+   "url": "https://www.youtube.com/@WSJ",
+   "format": "16:9 · 5–15 min",
+   "why": "Data-led business and tech explainers.",
+   "study": "Cutting between charts and footage, callout labels, making one number land.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "E3-03",
+   "genre": "E3",
+   "title": "Financial Times (channel)",
+   "maker": "Financial Times",
+   "url": "https://www.youtube.com/@FinancialTimes",
+   "format": "16:9 · 3–10 min",
+   "why": "The FT's chart language carried into video.",
+   "study": "Minimal charts, a restrained palette, a source line on every chart.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "E3-04",
+   "genre": "E3",
+   "title": "South China Morning Post (channel)",
+   "maker": "SCMP",
+   "url": "https://www.youtube.com/@SouthChinaMorningPost",
+   "format": "16:9 · varies",
+   "why": "A large graphics team with award-winning infographics.",
+   "study": "Maps and charts in one frame, 3D graphics, pacing dense information.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "E3-05",
+   "genre": "E3",
+   "title": "The Pudding",
+   "maker": "The Pudding",
+   "url": "https://pudding.cool",
+   "format": "web essays · not video",
+   "why": "The benchmark for narrative data visualisation.",
+   "study": "One chart per idea, reveals that follow the story, annotation; use as storyboards for motion.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "E4-01",
+   "genre": "E4",
+   "title": "Wendover Productions (channel)",
+   "maker": "Sam Denby",
+   "url": "https://www.youtube.com/@WendoverProductions",
+   "format": "16:9 · 12–20 min",
+   "why": "Logistics and systems stories with clean map cutaways.",
+   "study": "Route lines, when labels appear, mixing maps with stock footage.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "E4-02",
+   "genre": "E4",
+   "title": "RealLifeLore (channel)",
+   "maker": "RealLifeLore",
+   "url": "https://www.youtube.com/@RealLifeLore",
+   "format": "16:9 · 8–14 min",
+   "why": "Map-driven geography and geopolitics.",
+   "study": "Fast zooms, highlighting a region, a clear hierarchy of labels.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "E4-03",
+   "genre": "E4",
+   "title": "MapMen (channel)",
+   "maker": "Jay Foreman & Mark Cooper-Jones",
+   "url": "https://www.youtube.com/@MapMen",
+   "format": "16:9 · 6–10 min",
+   "why": "Map explainers that are funny and well designed.",
+   "study": "Stylised maps, comic graphics, characters carrying the narration.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "E4-04",
+   "genre": "E4",
+   "title": "CGP Grey (channel)",
+   "maker": "CGP Grey",
+   "url": "https://www.youtube.com/@CGPGrey",
+   "format": "16:9 · 6–15 min",
+   "why": "Stick figures and maps that set the bar for clarity.",
+   "study": "Visual logic, repeated motifs, tight sync between voice and picture.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "E4-05",
+   "genre": "E4",
+   "title": "CaspianReport (channel)",
+   "maker": "CaspianReport",
+   "url": "https://www.youtube.com/@CaspianReport",
+   "format": "16:9 · 8–14 min",
+   "why": "Geopolitical map animation.",
+   "study": "Sequenced map highlights; dense information that still reads.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "E4-06",
+   "genre": "E4",
+   "title": "Borders (series)",
+   "maker": "Vox · Johnny Harris, 2017–19",
+   "url": "https://www.youtube.com/@Vox",
+   "format": "16:9 · up to ~15 min",
+   "why": "Award-nominated mix of reporting, maps and graphics.",
+   "study": "Map overlays on reported footage; structure of a field-reporting explainer.",
+   "make_with": "mixed",
+   "verified": "search"
+  },
+  {
+   "id": "E5-01",
+   "genre": "E5",
+   "title": "Nerdwriter1 (channel)",
+   "maker": "Evan Puschak",
+   "url": "https://www.youtube.com/@Nerdwriter1",
+   "format": "16:9 · 8–15 min",
+   "why": "A defining voice of the video essay.",
+   "study": "Scene-by-scene visual analysis, cutting to the rhythm of the voice, restrained music.",
+   "make_with": "footage",
+   "verified": "fetched"
+  },
+  {
+   "id": "E5-02",
+   "genre": "E5",
+   "title": "Every Frame a Painting (channel)",
+   "maker": "Tony Zhou & Taylor Ramos",
+   "url": "https://www.youtube.com/@everyframeapainting",
+   "format": "16:9 · 5–10 min",
+   "why": "The most influential essays on film craft.",
+   "study": "Clip selection, side-by-side comparison, a tight script.",
+   "make_with": "footage",
+   "verified": "fetched"
+  },
+  {
+   "id": "E5-03",
+   "genre": "E5",
+   "title": "Philosophy Tube (channel)",
+   "maker": "Abigail Thorn",
+   "url": "https://www.youtube.com/@PhilosophyTube",
+   "format": "16:9 · 20–60 min",
+   "why": "Theatrical long-form essays.",
+   "study": "Staging and sets, costume as argument, chapter structure.",
+   "make_with": "footage",
+   "verified": "fetched"
+  },
+  {
+   "id": "E5-04",
+   "genre": "E5",
+   "title": "Polyphonic (channel)",
+   "maker": "Polyphonic",
+   "url": "https://www.youtube.com/@Polyphonic",
+   "format": "16:9 · 10–25 min",
+   "why": "Music history told with strong visual editing.",
+   "study": "Handling archive footage, text overlays, pacing to the music.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "E5-05",
+   "genre": "E5",
+   "title": "Vox (channel)",
+   "maker": "Vox",
+   "url": "https://www.youtube.com/@Vox",
+   "format": "16:9 · 5–15 min",
+   "why": "The newsroom explainer style: narration, motion graphics, archive.",
+   "study": "Cuts from archive to graphic, typographic callouts, layered sound.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "C1-01",
+   "genre": "C1",
+   "title": "Vercel Ship",
+   "maker": "basement.studio for Vercel, 2026",
+   "url": "https://vercel.com/ship",
+   "format": "web · keynote ~1 h",
+   "why": "A developer-brand event identity with real-time 3D on the web.",
+   "study": "Monochrome type, strict grid, the visual language of developer tools.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "C1-02",
+   "genre": "C1",
+   "title": "Notion AI Assistant",
+   "maker": "BUCK for Notion",
+   "url": "https://buck.co/work/notion-ai",
+   "format": "16:9 · campaign",
+   "why": "A top studio's take on a software product launch.",
+   "study": "Illustration and character combined with real product UI.",
+   "make_with": "mixed",
+   "verified": "search"
+  },
+  {
+   "id": "C1-03",
+   "genre": "C1",
+   "title": "Arc launch: \"a browser that browses for you\"",
+   "maker": "The Browser Company, 2024",
+   "url": "https://offmenu.substack.com/p/three-reasons-arcs-launch-video-went",
+   "format": "16:9 · short",
+   "why": "A launch that leads with the problem and parodies the keynote format.",
+   "study": "Problem-first script, live demo cut-ins, founder on camera.",
+   "make_with": "footage",
+   "verified": "fetched",
+   "note": "The link is an analysis; the video itself is on X."
+  },
+  {
+   "id": "C2-01",
+   "genre": "C2",
+   "title": "Oura Ring 4 Ceramic: Ring true to you",
+   "maker": "BUCK for Oura, 2024–25",
+   "url": "https://www.buck.co/work/oura-ring-true-to-you",
+   "format": "16:9 · hero film",
+   "why": "Tone-on-tone 3D product visuals with real people.",
+   "study": "Tone-on-tone lighting, macro framing, material rendering, pacing of the reveal.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "C2-02",
+   "genre": "C2",
+   "title": "Nothing Playground launch film",
+   "maker": "BUCK for Nothing, 2025",
+   "url": "https://www.buck.co/work/nothing-playground",
+   "format": "16:9 · ~1 min",
+   "why": "Dot-matrix and grid brand language joined to warm footage.",
+   "study": "Pixel grids and transparency as motion devices; UI paired with real footage.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "C2-03",
+   "genre": "C2",
+   "title": "Apple Events archive",
+   "maker": "Apple",
+   "url": "https://www.apple.com/apple-events/",
+   "format": "16:9 · ~1 h",
+   "why": "The benchmark for product reveals.",
+   "study": "Reveal choreography, camera moving around the device, light sweeps, minimal captions.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "C2-04",
+   "genre": "C2",
+   "title": "Lusion work (e.g. Porsche Dream Machine)",
+   "maker": "Lusion",
+   "url": "https://lusion.co",
+   "format": "real-time 3D · web",
+   "why": "Real-time 3D product storytelling.",
+   "study": "Shader and particle reveals, lighting and material response, spline camera moves; maps to three.js.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "C2-05",
+   "genre": "C2",
+   "title": "ManvsMachine work",
+   "maker": "ManvsMachine",
+   "url": "https://mvsm.com",
+   "format": "varies",
+   "why": "A design and film studio known for premium CG product work.",
+   "study": "Material rendering, macro camera moves, abstraction that stays close to the product.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "C3-01",
+   "genre": "C3",
+   "title": "The Final Copy of Ilon Specht",
+   "maker": "L'Oréal Paris · McCann Paris, dir. Ben Proudfoot, 2024",
+   "url": "https://www.canneslions.com/news/cannes-lions-announces-2025-final-winners",
+   "format": "16:9 · ~16 min",
+   "why": "A brand-backed documentary among the Cannes Lions 2025 Grand Prix winners.",
+   "study": "Single-subject storytelling, archive use, patient pacing.",
+   "make_with": "footage",
+   "verified": "fetched",
+   "note": "The link is the winners list, not the film."
+  },
+  {
+   "id": "C3-02",
+   "genre": "C3",
+   "title": "Coinbase: System Update",
+   "maker": "BUCK & Isle of Any, 2025",
+   "url": "https://www.buck.co/work/coinbase-system-update",
+   "format": "16:9 · anthem",
+   "why": "A manifesto built on one strong idea: the system reboots.",
+   "study": "Voiceover rhythm, transitions that carry the concept, a score-led edit.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "C3-03",
+   "genre": "C3",
+   "title": "Microsoft Copilot+ PCs",
+   "maker": "BUCK for Microsoft, 2024",
+   "url": "https://www.buck.co/work/microsoft-copilot-pcs",
+   "format": "16:9 · campaign",
+   "why": "Light used as the metaphor for AI across a whole campaign.",
+   "study": "One motif carried through device renders, films and keynote.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "C4-01",
+   "genre": "C4",
+   "title": "Paris 2024 Paralympics: Considering What?",
+   "maker": "Channel 4 · 4Creative, dir. Steve Rogers, 2024",
+   "url": "https://www.channel4.com/press/news/channel-4s-paris-2024-paralympic-games-marketing-campaign-challenges-patronising",
+   "format": "16:9 · ~90 s",
+   "why": "Cannes Lions 2025 Film Grand Prix; praised for its emotional editing.",
+   "study": "Forces such as gravity made into characters, cutting to music, the payoff of the final line.",
+   "make_with": "footage",
+   "verified": "search"
+  },
+  {
+   "id": "C4-02",
+   "genre": "C4",
+   "title": "Telstra: Better on a Better Network",
+   "maker": "Bear Meets Eagle On Fire & +61, 2024",
+   "url": "https://www.stashmedia.tv/?p=105045",
+   "format": "16:9 · 26 × ~15 s",
+   "why": "A stop-motion series that won top craft honours at Cannes 2025.",
+   "study": "Puppet casting, a world per location, 2D compositing, sound design.",
+   "make_with": "footage",
+   "verified": "fetched"
+  },
+  {
+   "id": "C4-03",
+   "genre": "C4",
+   "title": "Bodyform: Never Just A Period",
+   "maker": "AMV BBDO, 2025",
+   "url": "https://creative.salon/cannes-lions-curated/cannes-lions-2025-curated/film-cannes-lions-2025",
+   "format": "film · length unchecked",
+   "why": "A cause-led spot awarded at Cannes 2025.",
+   "study": "How a brand speaks about a taboo subject on screen.",
+   "make_with": "footage",
+   "verified": "fetched",
+   "note": "The link is a winners round-up; find the film there."
+  },
+  {
+   "id": "C5-01",
+   "genre": "C5",
+   "title": "Config 2024 opening film",
+   "maker": "Figma Brand Studio with Relay, 2024",
+   "url": "https://www.figma.com/blog/config-2024-branding/",
+   "format": "16:9 · ~1 min",
+   "why": "An event film built from a reusable motion library.",
+   "study": "Four named motion principles, shapes that set each other off, a palette of six variables.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "C5-02",
+   "genre": "C5",
+   "title": "Config 2026 identity and opening",
+   "maker": "Figma with Relay, 2026",
+   "url": "https://figma.com/blog/the-visual-identity-behind-config-2026",
+   "format": "16:9 · opening film",
+   "why": "An identity that moves from sketchy to crisp.",
+   "study": "Scribble, gradient and particle textures; dithered portraits; looping motion.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "C5-03",
+   "genre": "C5",
+   "title": "GitHub Universe '24",
+   "maker": "BUCK for GitHub, 2024",
+   "url": "https://www.buck.co/work/github-universe-2024",
+   "format": "16:9 · intro film",
+   "why": "A world's-fair design system for a developer conference.",
+   "study": "Brand shapes as animated monuments; how the intro film is structured.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "C5-04",
+   "genre": "C5",
+   "title": "Adobe MAX 2023",
+   "maker": "BUCK & Anyways for Adobe, 2023",
+   "url": "https://www.buck.co/work/adobe-max-2023",
+   "format": "stage + digital",
+   "why": "One library of 50+ shapes scaled from phone to a 40-foot stage.",
+   "study": "Keeping one shape system working at every screen size.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "D1-01",
+   "genre": "D1",
+   "title": "Se7en main titles",
+   "maker": "Kyle Cooper, 1995",
+   "url": "https://imaginaryforces.com/project/se7en",
+   "format": "2.39:1 · ~2.5 min",
+   "why": "The most imitated main title of its era.",
+   "study": "Stuttering frames, scratched type mixed with clean sans, tactile grain, type that feels made by a character.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "D1-02",
+   "genre": "D1",
+   "title": "Catch Me If You Can",
+   "maker": "Kuntzel + Deygas, 2002",
+   "url": "https://www.artofthetitle.com/title/catch-me-if-you-can/",
+   "format": "2.39:1 · ~3 min",
+   "why": "Flat-shape animation in the Saul Bass tradition.",
+   "study": "Flat vector shapes, cut-paper transitions, a 1960s palette, type inside the chase.",
+   "make_with": "code",
+   "verified": "search"
+  },
+  {
+   "id": "D1-03",
+   "genre": "D1",
+   "title": "Mad Men",
+   "maker": "Imaginary Forces, 2007",
+   "url": "https://www.artofthetitle.com/title/mad-men/",
+   "format": "16:9 · ~40 s",
+   "why": "A restrained falling silhouette carries the whole show's theme.",
+   "study": "Silhouette composition, slow fall, minimal type, a modernist palette.",
+   "make_with": "code",
+   "verified": "search"
+  },
+  {
+   "id": "D1-04",
+   "genre": "D1",
+   "title": "Enter the Void",
+   "maker": "Tom Kan, 2009",
+   "url": "https://www.artofthetitle.com/title/enter-the-void/",
+   "format": "2.39:1 · ~4 min",
+   "why": "A strobing barrage of type cut to techno.",
+   "study": "Cutting type to a beat, many faces at once, outlined against filled letters.",
+   "make_with": "code",
+   "verified": "search"
+  },
+  {
+   "id": "D1-05",
+   "genre": "D1",
+   "title": "Anatomy of a Murder",
+   "maker": "Saul Bass, 1959",
+   "url": "https://www.artofthetitle.com/title/anatomy-of-a-murder/",
+   "format": "1.85:1 · ~2 min",
+   "why": "The canonical title design: one concept, cut-out shapes, jazz.",
+   "study": "Shapes synced to music, one idea per sequence, very limited colour.",
+   "make_with": "code",
+   "verified": "search"
+  },
+  {
+   "id": "D1-06",
+   "genre": "D1",
+   "title": "Stranger Things",
+   "maker": "Imaginary Forces, 2016",
+   "url": "https://www.artofthetitle.com/title/stranger-things/",
+   "format": "16:9 · ~1 min",
+   "why": "A type-only title made to look optically produced in the 1980s.",
+   "study": "Slow tracking on the logotype, light bleed and glow, tight kerning, a build tied to the score.",
+   "make_with": "code",
+   "verified": "search"
+  },
+  {
+   "id": "D2-01",
+   "genre": "D2",
+   "title": "Walking City",
+   "maker": "Universal Everything, 2014",
+   "url": "https://universaleverything.com/?p=1005",
+   "format": "16:9 · loop",
+   "why": "A building that walks, driven by physics.",
+   "study": "Procedural motion, seamless looping, monochrome restraint, a sense of weight.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "D2-02",
+   "genre": "D2",
+   "title": "Universal Everything work",
+   "maker": "Universal Everything",
+   "url": "https://universaleverything.com",
+   "format": "site",
+   "why": "A leading studio for generative, figure-based motion.",
+   "study": "Mesh and particle figures, colour systems, rhythm locked to music.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "D2-03",
+   "genre": "D2",
+   "title": "FIELD.IO work",
+   "maker": "FIELD.IO",
+   "url": "https://field.io",
+   "format": "site",
+   "why": "Systems-based generative design for large brands.",
+   "study": "Rule-driven 3D forms, visuals that react to data, restrained palettes.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "D3-01",
+   "genre": "D3",
+   "title": "Mailchimp motion system and Freddie",
+   "maker": "DIA, 2020",
+   "url": "https://dia.tv/project/mailchimp",
+   "format": "system",
+   "why": "A mascot that drives a whole brand's motion language.",
+   "study": "Squash and stretch, the mascot as a system, a toolkit that keeps it consistent.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "D3-02",
+   "genre": "D3",
+   "title": "Pixel 9 Pro Fold: Made You Look",
+   "maker": "BUCK for Google, 2024",
+   "url": "https://www.buck.co/work/google-pixel-made-you-look",
+   "format": "device screen · loops",
+   "why": "Character animation designed for the outer screen of a phone.",
+   "study": "Short character sequences that react to the viewer; animating inside a device frame.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "D3-03",
+   "genre": "D3",
+   "title": "Duolingo's Lily video call",
+   "maker": "Duolingo with Rive, 2025",
+   "url": "https://rive.app/blog/duolingo-s-ai-powered-video-call-brings-lily-to-life",
+   "format": "real-time · app",
+   "why": "A deadpan mascot that reacts live, in a file under 1 MB.",
+   "study": "Expressions as a state machine, deadpan timing, lightweight vector rigs.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "D3-04",
+   "genre": "D3",
+   "title": "Giant Ant work",
+   "maker": "Giant Ant",
+   "url": "https://www.giantant.ca",
+   "format": "site",
+   "why": "A respected character and brand animation studio.",
+   "study": "Appeal, staging, comic timing.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "D3-05",
+   "genre": "D3",
+   "title": "Golden Wolf work",
+   "maker": "Golden Wolf",
+   "url": "https://www.goldenwolf.tv",
+   "format": "site",
+   "why": "Stylised, character-led brand films in 2D and 3D.",
+   "study": "Smear frames, exaggerated poses, punchy edits.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "D3-06",
+   "genre": "D3",
+   "title": "BBC Two \"Squish\" ident",
+   "maker": "Aardman, 2018",
+   "url": "https://aardman.com/latest-news/2018/december/behind-the-craft-squish-the-bbc2-ident",
+   "format": "16:9 · ~20 s",
+   "why": "Real slime shot at high frame rate that behaves like a character.",
+   "study": "Real-material motion, one gag per ident.",
+   "make_with": "footage",
+   "verified": "fetched"
+  },
+  {
+   "id": "D4-01",
+   "genre": "D4",
+   "title": "Spotify Wrapped 2025",
+   "maker": "Spotify with Rive, 2025",
+   "url": "https://rive.app/blog/spotify-used-rive-for-spotify-wrapped-2025",
+   "format": "9:16 · story cards",
+   "why": "Data-driven animated story cards at enormous scale.",
+   "study": "Card transitions, animation driven by personal data, bold type.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "D4-02",
+   "genre": "D4",
+   "title": "LinkedIn Year in Review",
+   "maker": "BUCK with Rive, 2025",
+   "url": "https://rive.app/blog/linkedin-year-in-review-2025-built-with-rive",
+   "format": "9:16 · story cards",
+   "why": "A top studio's product-motion build.",
+   "study": "Reveal pacing, layouts shared between screens.",
+   "make_with": "code",
+   "verified": "search"
+  },
+  {
+   "id": "D4-03",
+   "genre": "D4",
+   "title": "Strava Year in Sport",
+   "maker": "Strava with Rive, 2025",
+   "url": "https://rive.app/blog/strava-year-in-sport-built-with-rive",
+   "format": "9:16 · story cards",
+   "why": "An in-house data-story motion system.",
+   "study": "Animated charts, count-ups, cards built to be shared.",
+   "make_with": "code",
+   "verified": "search"
+  },
+  {
+   "id": "D4-04",
+   "genre": "D4",
+   "title": "Carbon motion guidelines",
+   "maker": "IBM",
+   "url": "https://carbondesignsystem.com/elements/motion/overview/",
+   "format": "spec · not video",
+   "why": "A principled split between productive and expressive motion.",
+   "study": "Easing curves and duration tokens to borrow as defaults.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "D4-05",
+   "genre": "D4",
+   "title": "Material 3 motion",
+   "maker": "Google",
+   "url": "https://m3.material.io/styles/motion/overview",
+   "format": "spec · not video",
+   "why": "The reference spec for interface transitions.",
+   "study": "Shared-axis and container-transform transitions.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "D5-01",
+   "genre": "D5",
+   "title": "Natural History Museum identity",
+   "maker": "Pentagram with Nomad",
+   "url": "https://pentagram.com/work/natural-history-museum",
+   "format": "system",
+   "why": "Four named motion styles plus sound-reactive animation.",
+   "study": "A small motion vocabulary applied consistently everywhere.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "D5-02",
+   "genre": "D5",
+   "title": "MTV World Creative Studio",
+   "maker": "Pentagram",
+   "url": "https://pentagram.com/work/mtv-world-creative-studio/story",
+   "format": "looping logos",
+   "why": "Adaptive logos shaped like sound waves.",
+   "study": "Simple monochrome logo motion with generative variants.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "D5-03",
+   "genre": "D5",
+   "title": "Spotify motion identity",
+   "maker": "Trollbäck+Company",
+   "url": "https://trollback.com/projects/spotify/",
+   "format": "system · spots",
+   "why": "Motion that spans the app, channels and campaigns.",
+   "study": "Toolkit thinking, a shape language that carries tone.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "D5-04",
+   "genre": "D5",
+   "title": "Zapier Motion Library",
+   "maker": "BUCK for Zapier",
+   "url": "https://buck.co/work/zapier-motion-library",
+   "format": "system",
+   "why": "A brand's motion written down as reusable rules.",
+   "study": "What a motion system documents; a model for our own house-style file.",
+   "make_with": "code",
+   "verified": "search"
+  },
+  {
+   "id": "D5-05",
+   "genre": "D5",
+   "title": "BBC Two idents",
+   "maker": "BBC Creative & Superunion, 2018",
+   "url": "https://shots.net/news/view/96480-bbc-two-idents-2018-brand-refresh",
+   "format": "16:9 · ~20 s each",
+   "why": "Sixteen idents drawn from one bank of CG animation.",
+   "study": "Mood-led abstract scenes sharing one sonic structure.",
+   "make_with": "footage",
+   "verified": "search"
+  },
+  {
+   "id": "S1-01",
+   "genre": "S1",
+   "title": "Duolingo on TikTok",
+   "maker": "Duolingo, 2023–",
+   "url": "https://shortyawards.com/14th/duolingo-tiktok-2",
+   "format": "9:16 · 10–40 s",
+   "why": "The brand account that defines the genre's tone.",
+   "study": "First-second hooks, one recurring character, deadpan captions, low-polish pacing.",
+   "make_with": "footage",
+   "verified": "search"
+  },
+  {
+   "id": "S1-02",
+   "genre": "S1",
+   "title": "Cult Mass",
+   "maker": "Duolingo, 2025",
+   "url": "https://ads.tiktok.com/business/en/inspiration/ad-awards-duolingo-case-study",
+   "format": "9:16 · short",
+   "why": "Named the top campaign at the 2025 TikTok Ad Awards.",
+   "study": "Hook-to-payoff timing; staging a mascot for the vertical frame.",
+   "make_with": "mixed",
+   "verified": "search"
+  },
+  {
+   "id": "S2-01",
+   "genre": "S2",
+   "title": "Cleo Abram (channel)",
+   "maker": "Cleo Abram",
+   "url": "https://www.youtube.com/@cleoabram",
+   "format": "16:9 · 10–20 min",
+   "why": "Optimistic explainers with cinematic production.",
+   "study": "Cold-open stakes, location b-roll, clean diagrams, emotional beats led by music.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "S2-02",
+   "genre": "S2",
+   "title": "Johnny Harris (channel)",
+   "maker": "Johnny Harris",
+   "url": "https://www.youtube.com/@johnnyharris",
+   "format": "16:9 · 15–30 min",
+   "why": "Talking head blended with map and collage graphics.",
+   "study": "Animated maps, paper-cutout layers, cuts that carry the argument.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "S2-03",
+   "genre": "S2",
+   "title": "MKBHD (channel)",
+   "maker": "Marques Brownlee",
+   "url": "https://www.youtube.com/@mkbhd",
+   "format": "16:9 · 10–20 min",
+   "why": "The benchmark for polish in tech reviews.",
+   "study": "Macro product shots, minimal lower thirds, tight pacing, sound on cuts.",
+   "make_with": "footage",
+   "verified": "fetched"
+  },
+  {
+   "id": "S2-04",
+   "genre": "S2",
+   "title": "Colin and Samir (channel)",
+   "maker": "Colin and Samir",
+   "url": "https://www.youtube.com/@colinandsamir",
+   "format": "16:9 · 10–40 min",
+   "why": "Interviews and podcast clips cut well.",
+   "study": "Interview cutting, punch-in reframes, caption callouts.",
+   "make_with": "footage",
+   "verified": "fetched"
+  },
+  {
+   "id": "S3-01",
+   "genre": "S3",
+   "title": "Fireship (channel)",
+   "maker": "Jeff Delaney",
+   "url": "https://www.youtube.com/@Fireship",
+   "format": "16:9 · 1–10 min",
+   "why": "Dense, fast developer explainers.",
+   "study": "Zooms into code, jump-cut rhythm, sound stingers, one idea per video.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "S3-02",
+   "genre": "S3",
+   "title": "Sebastian Lague (channel)",
+   "maker": "Sebastian Lague",
+   "url": "https://www.youtube.com/@SebastianLague",
+   "format": "16:9 · 15–40 min",
+   "why": "Coding projects told as a visual story.",
+   "study": "Showing the build in the engine, slow reveals, an edit led by narration.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "S3-03",
+   "genre": "S3",
+   "title": "Kevin Powell (channel)",
+   "maker": "Kevin Powell",
+   "url": "https://www.youtube.com/@KevinPowell",
+   "format": "16:9 · 8–25 min",
+   "why": "The standard for teaching CSS on video.",
+   "study": "Browser and code side by side, live-coding rhythm, annotated callouts.",
+   "make_with": "code",
+   "verified": "fetched"
+  },
+  {
+   "id": "S3-04",
+   "genre": "S3",
+   "title": "Blender beginner tutorial (the donut)",
+   "maker": "Blender Guru, 2019",
+   "url": "https://www.youtube.com/watch?v=TPrnSACiTJ4",
+   "format": "16:9 · series",
+   "why": "The most-watched Blender introduction, known for its teaching.",
+   "study": "Step-by-step screen capture, clear cursor focus, one project that keeps people watching.",
+   "make_with": "footage",
+   "verified": "fetched"
+  },
+  {
+   "id": "S4-01",
+   "genre": "S4",
+   "title": "OK Go: Love",
+   "maker": "OK Go & SpecialGuest, 2025",
+   "url": "https://winners.webbyawards.com/2026/video-film/general-video-film/music-video/368350/ok-go--love-official-video",
+   "format": "16:9 · ~4 min",
+   "why": "One continuous take with robot arms and mirrors.",
+   "study": "Choreographed camera and mirror geometry, rhythm locked to the beat.",
+   "make_with": "footage",
+   "verified": "search"
+  },
+  {
+   "id": "S4-02",
+   "genre": "S4",
+   "title": "OK Go: This Too Shall Pass",
+   "maker": "OK Go, 2010",
+   "url": "https://www.youtube.com/watch?v=qybUFnY7Y8w",
+   "format": "16:9 · ~4 min",
+   "why": "A single-take chain reaction locked to the track.",
+   "study": "Cause and effect on the beat, one-take staging, a build that pays off.",
+   "make_with": "footage",
+   "verified": "fetched"
+  },
+  {
+   "id": "S4-03",
+   "genre": "S4",
+   "title": "Kinetic lyrics for \"Toy\"",
+   "maker": "Reed Sullivan for Young Fathers, 2021",
+   "url": "https://motiondesignawards.com/project/457/kinetic-lyrics-to-toy-by-young-father",
+   "format": "16:9 · ~3 min",
+   "why": "Lyrics treated as menace rather than subtitles.",
+   "study": "Handwritten type, noir grain, legibility traded for mood on purpose.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "S4-04",
+   "genre": "S4",
+   "title": "Dolly Parton: Blue Bonnet Breeze lyric video",
+   "maker": "Ingenuity Studios, 2022",
+   "url": "https://www.tellyawards.com/winners/2022/online/craft-art-direction/dolly-parton-blue-bonnet-breeze-official-lyric-video/271633",
+   "format": "16:9 · ~3 min",
+   "why": "Gold Telly for art direction in a lyric video.",
+   "study": "Type placed inside a scene; art direction timed to the lyrics.",
+   "make_with": "mixed",
+   "verified": "fetched",
+   "note": "The page has no video link; find it by title."
+  },
+  {
+   "id": "S4-05",
+   "genre": "S4",
+   "title": "OutKast: Dracula's Wedding lyric video",
+   "maker": "2024",
+   "url": "https://www.tellyawards.com/winners/2024/non-broadcast/craft-art-direction/outkast-–-dracula’s-wedding-lyric-video/317404/",
+   "format": "16:9 · ~4 min",
+   "why": "Gold Telly for craft and art direction.",
+   "study": "Lyric-driven art direction and narrative staging.",
+   "make_with": "mixed",
+   "verified": "search"
+  },
+  {
+   "id": "S5-01",
+   "genre": "S5",
+   "title": "Grand Theft Auto VI, Trailer 2",
+   "maker": "Rockstar Games, 2025",
+   "url": "https://www.youtube.com/watch?v=VQRLujxTm3c",
+   "format": "16:9 · ~2.5 min",
+   "why": "A trailer that became a cultural event.",
+   "study": "Montage rhythm, needle-drop sync, pacing of text cards, the final title reveal.",
+   "make_with": "footage",
+   "verified": "fetched"
+  },
+  {
+   "id": "S5-02",
+   "genre": "S5",
+   "title": "Dune: Part Two, Trailer 2",
+   "maker": "Warner Bros., 2023",
+   "url": "https://www.youtube.com/watch?v=_YUzQa_1RCE",
+   "format": "16:9 · ~3 min",
+   "why": "Scale and tension built mostly with sound.",
+   "study": "Low hits, silence before the hit, acts that build on characters, title-card cadence.",
+   "make_with": "footage",
+   "verified": "fetched"
+  },
+  {
+   "id": "S5-03",
+   "genre": "S5",
+   "title": "Nintendo Switch 2 first look",
+   "maker": "Nintendo, 2025",
+   "url": "https://www.youtube.com/watch?v=itpcsQQvgAQ",
+   "format": "16:9 · ~2 min",
+   "why": "A product teaser with almost no words.",
+   "study": "Object animation, transitions, explaining a product without narration.",
+   "make_with": "mixed",
+   "verified": "fetched"
+  },
+  {
+   "id": "S6-01",
+   "genre": "S6",
+   "title": "Total Pixel Space",
+   "maker": "Jacob Adler, 2025",
+   "url": "https://aif.runwayml.com/screening-room",
+   "format": "16:9 · ~9.5 min",
+   "why": "Grand Prix at Runway's AI Film Festival 2025.",
+   "study": "Essay narration over generated images, consistency across nine minutes, a concept-led structure.",
+   "make_with": "generated",
+   "verified": "fetched",
+   "note": "The listing has no watch link."
+  },
+  {
+   "id": "S6-02",
+   "genre": "S6",
+   "title": "AI Film Festival 2026 winners",
+   "maker": "Runway, 2026",
+   "url": "https://aif.runwayml.com/",
+   "format": "various",
+   "why": "This year's winning AI films in one place.",
+   "study": "Compare shot grammar and style across the winners.",
+   "make_with": "generated",
+   "verified": "fetched"
+  },
+  {
+   "id": "S6-03",
+   "genre": "S6",
+   "title": "Veo 3.1 showcase",
+   "maker": "Google DeepMind",
+   "url": "https://deepmind.google/models/veo/",
+   "format": "16:9 · clips",
+   "why": "The official gallery, with prompts shown.",
+   "study": "Prompt wording, camera control, first and last frame use.",
+   "make_with": "generated",
+   "verified": "fetched"
+  },
+  {
+   "id": "S6-04",
+   "genre": "S6",
+   "title": "Kalshi NBA Finals ad",
+   "maker": "PJ Accetturo for Kalshi, 2025",
+   "url": "https://www.eweek.com/news/ai-ad-kalshi-nba-finals/",
+   "format": "16:9 · ~30 s",
+   "why": "Reported as the first fully AI ad on NBA Finals TV, made with Veo 3.",
+   "study": "A model-written shot list, hundreds of generations for a few clips, absurd beats that hide model limits.",
+   "make_with": "generated",
+   "verified": "search"
+  },
+  {
+   "id": "S6-05",
+   "genre": "S6",
+   "title": "The Origin of Toys\"R\"Us",
+   "maker": "Native Foreign & Toys\"R\"Us Studios, 2024",
+   "url": "https://www.whp-global.com/blogs/brand-news/toysrus-studios-and-native-foreign-use-openais-sora-to-narrate-the-origin-story-of-beloved-toyrus-brand",
+   "format": "~1 min",
+   "why": "The first brand film made with Sora.",
+   "study": "Cutting hundreds of shots down to two dozen, VFX clean-up, emotion carried by music.",
+   "make_with": "generated",
+   "verified": "search",
+   "note": "Made with Sora, which may no longer be online."
+  },
+  {
+   "id": "S6-06",
+   "genre": "S6",
+   "title": "Kling showcase",
+   "maker": "Kuaishou",
+   "url": "https://kling.ai/",
+   "format": "various",
+   "why": "Case studies including an award-winning AI short.",
+   "study": "Compare shot types across Kling models.",
+   "make_with": "generated",
+   "verified": "fetched"
+  }
+ ]
+}

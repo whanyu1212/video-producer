@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: promo-15s-plan-first
+expected_outcome: |
+  A project is created in the working folder and its project.md holds the brief quoted
+  word for word, the audience and one takeaway, a Look with a hex palette, a script that
+  fits 15 seconds, and a beat-by-beat Plan adding up to about 15 s. The paid scripts are
+  run only with --dry-run, the user gets the plan and a credit estimate, and the run stops
+  there to ask for the go-ahead. No ElevenLabs credits are spent.

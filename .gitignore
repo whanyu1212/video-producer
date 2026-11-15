@@ -1,0 +1,12 @@
+# Tool caches
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+
+# Media and records from trial runs never belong in the skill
+*.mp3
+*.mp4
+*.wav
+*.png
+*.gen.json
+out/

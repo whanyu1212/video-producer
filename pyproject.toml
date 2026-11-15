@@ -1,0 +1,17 @@
+# Tooling config for the skill's scripts (stdlib only; no install needed).
+# Tests: uv run --no-project --python 3.12 --with pytest pytest
+[project]
+name = "video-producer-scripts"
+version = "0.1.0"
+license = "MIT"
+requires-python = ">=3.11"
+
+[tool.ruff]
+line-length = 130
+
+[tool.pyright]
+extraPaths = ["scripts"]
+
+[tool.pytest.ini_options]
+pythonpath = ["scripts"]
+testpaths = ["scripts/tests"]
